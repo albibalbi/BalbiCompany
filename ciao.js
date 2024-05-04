@@ -1,1 +1,1 @@
-console.log(bellaaaaa)
+console.log(brutta)
